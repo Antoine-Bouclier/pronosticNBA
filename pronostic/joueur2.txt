@@ -1,0 +1,71 @@
+# Classement de la Saison Régulière (Conférence Est)
+1. Celtics
+2. Knicks
+3. Bucks
+4. Cavaliers
+5. Magic
+6. Pacers
+7. 76ers
+8. Heat
+9. Bulls
+10. Hawks
+11. Nets
+12. Raptors
+13. Hornets
+14. Wizards
+15. Pistons
+
+# Classement de la Saison Régulière (Conférence Ouest)
+1. Thunder
+2. Nuggets
+3. Timberwolves
+4. Clippers
+5. Mavericks
+6. Suns
+7. Lakers
+8. Pelicans
+9. Kings
+10. Warriors
+11. Rockets
+12. Jazz
+13. Grizzlies
+14. Spurs
+15. Trail Blazers
+
+# Playoffs (Est)
+# 1er Tour
+Celtics vs Heat
+Cavaliers vs Magic
+Pacers vs Bucks
+76ers vs Knicks
+
+# Demi-finales de Conférence (Est)
+Celtics vs Cavaliers
+Knicks vs Pacers
+
+# Finales de Conférence (Est)
+Pacers vs Celtics
+
+# Playoffs (Est)
+# 1er Tour
+Pelicans vs Thunder
+Mavericks vs Clippers
+Suns vs Timberwolves
+Nuggets vs Lakers
+
+# Demi-finales de Conférence (Est)
+Mavericks vs Thunder
+Nuggets vs Timberwolves
+
+# Finales de Conférence (Est)
+Timberwolves vs Mavericks
+
+# Finales NBA
+Celtics vs Mavericks
+
+# Récompenses Individuelles
+MVP: Jokic
+Rookie of the Year: Wembanyama
+Defensive Player of the Year: Gobert
+Most Improved Player: Maxey
+Sixth Man of the Year: Naz Reid
